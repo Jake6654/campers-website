@@ -1,7 +1,9 @@
+import MemberBenefits from "@/components/MemberBenefits";
+
 export default function Home() {
   return (
-    <main>
-      <h1>Hello, world!</h1>
-    </main>
+    <>
+      <MemberBenefits />
+    </>
   );
 }
