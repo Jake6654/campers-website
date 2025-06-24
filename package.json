@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-google-maps/api": "^2.20.7",
+    "date-fns": "^4.1.0",
+    "framer-motion": "^12.19.1",
     "next": "15.3.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
