@@ -6,13 +6,13 @@ export default function Hero() {
     <div className="flex flex-col md:flex-row items-center gap-8 px-4 py-12 max-w-6xl mx-auto">
       <div className="flex-1 order-2 md:order-1">
         <h1 className="text-4xl md:text-5xl font-extrabold leading-tight mb-4 text-gray-900">
-          Lorem ipsum dolor sit amet consectetur adipiscing elit.
+          Welcome to Korean International Student Organization 👋
         </h1>
         <p className="text-base md:text-lg text-gray-600 mb-6 leading-relaxed">
-          Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque
-          faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi
-          pretium tellus duis convallis. Tempus leo eu aenean sed diam urna
-          tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+          Korean International Student Organization is a community that was
+          founded with the mission to promote the exchange of Korean culture,
+          support academic growth, and protect the rights and interests of
+          Korean international students.
         </p>
         <Link
           href="/about"

@@ -92,7 +92,7 @@ const Header: FC = () => {
             {/** 헤더와 맞닿는 경계선: border-r 뿐 아니라, 위쪽에 line을 보이도록 border-b도 가능 **/}
             <nav className="flex-1 px-4 py-6 space-y-4">
               <Link
-                href="/international-guide-kr"
+                href="/international-guide-en"
                 className="block text-white text-xl hover:underline"
               >
                 International Student Guide

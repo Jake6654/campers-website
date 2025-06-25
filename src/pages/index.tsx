@@ -1,11 +1,10 @@
 import MemberBenefits from "@/components/MemberBenefits";
 import Form from "@/components/Form";
-import Hero from "@/components/Hero";
+import Hero from "@/components/Hero-en";
 import Map from "@/components/Map";
 import MonthlyEvents from "@/components/MontlyEvents";
 import { mockAnnouncement } from "../../mocks/mockAnnouncement";
-import { users } from "../../mocks/mockUser";
-import ProfileIcon from "@/components/ProfileIcon";
+import ExecutiveBoard from "@/components/ExecutiveBoard";
 import Banner from "@/components/Banner";
 
 export default function Home() {
@@ -16,7 +15,7 @@ export default function Home() {
       <div className="my-12">
         <MonthlyEvents />
       </div>
-      <ProfileIcon user={users} />
+      <ExecutiveBoard/>
       <MemberBenefits />
       <Map />
       <Form />
