@@ -13,13 +13,13 @@ const MemberBenefits: FC = () => {
       icon: <FaBell size={40} className="text-blue-900" />,
       title: "Events and Groups",
       description:
-        "Join us for entertaining events and find sub-groups of matching interests such as sports teams, music bands, and more.",
+        "Join us for entertaining events and find sub-groups of matching interests such as pickle ball group, membership training trips and friends giving.",
     },
     {
       icon: <FaPagelines size={40} className="text-blue-900" />,
       title: "Culture",
       description:
-        "Participate in cultural events to help spread the awareness and appreciation of Korean culture.",
+        "Join us to make friends who you can share with, we welcome Korean international students, Korean exchange students, and anyone who speaks and appreciates Korean culture are welcome",
     },
   ];
 
