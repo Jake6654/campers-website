@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { useRef } from "react";
 
-export default function InternationalGuideKr() {
+export default function InternationalGuideEn() {
   const stepRefs = useRef<(HTMLDivElement | null)[]>([]);
 
   const scrollToStep = (stepIndex: number): void => {
@@ -353,7 +353,7 @@ export default function InternationalGuideKr() {
 
           <div className="text-center">
             <Link
-              href="/international-guide-kr2"
+              href="/international-guide-en2"
               className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-blue-600 to-blue-700 text-white font-semibold rounded-lg shadow-lg hover:from-blue-700 hover:to-blue-800 transition-all duration-200 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
             >
               Next Step

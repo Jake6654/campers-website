@@ -1,8 +1,8 @@
 export const mockAnnouncement: string[] = [
-  "June 4: Kiso App Launches with Exciting Features!",
-  "June 5: New Update Available - Check Out the Latest Improvements!",
-  "June 6: Kiso App Reaches 1,000 Downloads - Thank You for Your Support!",
-  "June 7: Kiso App Now Supports Dark Mode - Switch It On!",
-  "June 8: Kiso App Introduces New User Interface - Try It Out!",
-  "June 9: Kiso App Partners with Local Businesses Discover Exclusive Offers!",
+  "Summer 2024: Kiso's founding members first took initiative",
+  "Fall 2024: Kiso officially recognized as Contracted Independent Organization",
+  "Spring 2024: First successful semester of Kiso with over 100 members",
+  "Spring 2024: Kiso inherits its spirit through the election of 2nd board members",
+  "Summer 2025: Kiso embarks on a new journey to expand!",
+  "Summer 2025: Kiso website officially launches to help members find resources related to UVA",
 ];

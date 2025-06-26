@@ -15,7 +15,7 @@ export default function Home() {
       <div className="my-12">
         <MonthlyEvents />
       </div>
-      <ExecutiveBoard/>
+      <ExecutiveBoard />
       <MemberBenefits />
       <Map />
       <Form />

@@ -9,16 +9,16 @@ const Form: React.FC = () => {
         <p className="flex items-center text-lg">
           <span className="font-semibold mr-2">Email:</span>
           <a
-            href="mailto:ugw2ad@virginia.edu"
+            href="mailto:uvakiso24@gmail.com"
             className="text-blue-600 underline hover:text-blue-900"
           >
-            jaehyuk@virginia.edu
+            uvakiso24@gmail.com
           </a>
         </p>
 
         {/* Group name */}
         <p className="text-xl font-medium">
-          Korean International Student Association
+          Korean International Student Organization
         </p>
 
         {/* address */}
@@ -31,7 +31,7 @@ const Form: React.FC = () => {
         {/* social icon*/}
         <div className="flex space-x-4 text-2xl text-red-600">
           <a
-            href="https://instagram.com/yourprofile"
+            href="https://www.instagram.com/uvakiso?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
@@ -39,15 +39,15 @@ const Form: React.FC = () => {
           >
             <FaInstagram />
           </a>
-          <a
-            href="https://youtube.com/yourchannel"
+          {/* <a
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="YouTube"
             className="hover:text-red-800"
-          >
+          > */}
             <FaYoutube />
-          </a>
+          {/* </a> */}
         </div>
       </div>
 
@@ -66,7 +66,7 @@ const Form: React.FC = () => {
             id="name"
             type="text"
             className="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
-            placeholder="이름을 입력하세요"
+            placeholder="Enter your name"
           />
         </div>
 
@@ -90,7 +90,7 @@ const Form: React.FC = () => {
             id="message"
             rows={6}
             className="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none"
-            placeholder="문의 내용을 작성해주세요"
+            placeholder="I would like to ask about the F-1 visa process"
           />
         </div>
 
