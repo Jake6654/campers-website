@@ -1,4 +1,3 @@
-
 import { useEffect, useState } from "react";
 import TitleAnimation from "@/components/TitleAnimation";
 import IntroSection from "@/components/IntoSection";
